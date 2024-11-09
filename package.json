@@ -1,0 +1,40 @@
+{
+  "name": "konva-croppable-image",
+  "version": "1.0.0",
+  "description": "A lightweight, flexible image cropping solution for React KonvaJS, enabling seamless, responsive crop zones and precision control over image adjustments. Perfect for interactive design applications and custom cropping needs",
+  "main": "index.tsx",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seunoyeniyi/konva-croppable-image.git"
+  },
+  "keywords": [
+    "React",
+    "Konva",
+    "image-crop",
+    "cropping-tool",
+    "react-konva",
+    "konvaJS",
+    "canvas",
+    "image-editor",
+    "crop-zone",
+    "image-manipulation",
+    "image-resize",
+    "interactive-design",
+    "croppable",
+    "React-canvas"
+  ],
+  "author": "Seun Oyeniyi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seunoyeniyi/konva-croppable-image/issues"
+  },
+  "homepage": "https://github.com/seunoyeniyi/konva-croppable-image#readme",
+  "dependencies": {
+    "konva": "^9.3.16",
+    "react-konva": "^18.2.10",
+    "react-konva-utils": "^1.0.6"
+  }
+}
